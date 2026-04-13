@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Automated Attendance**: High-accuracy face recognition using InsightFace (Buffalo_L).
 - **Engagement Analytics**: Real-time gaze and head-pose analysis using MediaPipe FaceMesh.
@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 - **Backend**: FastAPI (Python 3.12), SQLAlchemy (SQLite), Uvicorn.
 - **Frontend**: React 18, Vite, Tailwind CSS, Recharts.
@@ -26,7 +26,7 @@
 
 ---
 
-## 💻 Installation Guide
+## Installation Guide
 
 ### Prerequisites
 - Python 3.12+
@@ -70,7 +70,7 @@
 
 ---
 
-## 🏃 Running the Project
+## Running the Project
 
 1. **Start the Backend**:
    From the project root:
@@ -88,7 +88,7 @@
 
 ---
 
-## 🔒 Privacy & Compliance (DPDP 2023)
+## Privacy & Compliance (DPDP 2023)
 FOCUS is built with the Digital Personal Data Protection Act (DPDP 2023) at its core:
 - **No Raw Images**: The system never stores raw footage; only encrypted mathematical embeddings are persisted.
 - **Consent Management**: Explicit student consent is required for biometric processing.
@@ -97,4 +97,4 @@ FOCUS is built with the Digital Personal Data Protection Act (DPDP 2023) at its 
 ---
 
 ## 🎓 Academic Info
-Developed as part of **CSL308** at **VNIT Nagpur** (Group G14).
+Developed as part of **CSL308 SE Course Mini Project** at **VNIT Nagpur** (Group G14).
