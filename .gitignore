@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+.pytest_cache/
+*.log
+
+# Databases & Private Data
+data/db/*.db
+data/embeddings/*.enc
+data/logs/*.log
+models/
+temp_*.py
+test_errors.txt
+unit_failures.txt
+unit_report.json
+api_report*.json
+api_failures*.md
+failures.md
+
+# Node / Frontend
+node_modules/
+dist/
+.vite/
+frontend/dist/
+frontend/node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project Specific
+scratch/
+.tmp/
+reports/*.pdf
+reports/*.xlsx
+*.whl
