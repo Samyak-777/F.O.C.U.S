@@ -96,5 +96,5 @@ FOCUS is built with the Digital Personal Data Protection Act (DPDP 2023) at its 
 
 ---
 
-## 🎓 Academic Info
+## Academic Info
 Developed as part of **CSL308 SE Course Mini Project** at **VNIT Nagpur** (Group G14).
